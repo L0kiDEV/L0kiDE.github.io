@@ -1,44 +1,28 @@
 <!DOCTYPE html>
-<html>
-<body bgcolor="brown"> <center>
+<title>Saul</title>
+
+<center><h1> <font color="red">Story</font><br></h1></center>
+
+</head>
 
 
-    <table border="10" style="background-color:rgb(255, 115, 0); color: rgb(220, 255, 19);" >
-        <tr>
-            <th>Telefon || Pamięć</th>
-            <th>Ram</th>
-            <th>Cena</th>
-            <th>Stan</th>
-            <th>Faktura</th>
-            <th>Ekran</th>
-        </tr>
-        <tr>
-            <th><a href="https://allegro.pl/oferta/smartfon-xiaomi-redmi-8-4-64gb-czarny-12378411137" target="_blank">Telefon 1 (64 gb)</a></th>
-            <td>4 </td>
-            <td>690</td>
-            <td>Nowy</td>
-            <td>Nie</td>
-            <td>6.2"</td>
-        </tr>
-        <tr>
-            <th><a href="https://allegro.pl/oferta/smartfon-xiaomi-redmi-note4-zloty-3-64gb-11314974149" target="_blank">Telefon 2 (64gb)</a></th>
-            <td>3</td>
-            <td>500</td>
-            <td>Nowy</td>
-            <td>Nie</td>
-            <td>5.5"</td>
-        </tr>
-        <tr>
-            <th><a href="https://www.euro.com.pl/telefony-komorkowe/xiaomi-smartfon-redmi-10c-4-64-gra-gray-xiaomi.bhtml?gclid=EAIaIQobChMIt5LCqpSj-gIVC-qyCh0fWw0MEAQYASABEgLrAvD_BwE&gclsrc=aw.ds" target="_blank">Telefon 3 (64gb)</a></th>
-            <td>6</td>
-            <td>600</td>
-            <td>Używany</td>
-            <td>Tak</td>
-            <td>6.53"</td>
-        </tr>
-    </table border="5">
+<body style="background-color: rgb(219, 143, 219)">
 
-   
+    <table border="6"><center> 
 
 
-</body > </center>
+    <BUTTON TYPE="button" onClick="parent.location.href='Lustor.html'" STYLE="font: 8pt Arial; font-style: italic; font-weight: bold; color:yellow; background:#d13c17; width:100px; height:50px;">Lustro
+
+    <BUTTON TYPE="button" onClick="parent.location.href='Japko.html'" STYLE="font: 8pt Arial; font-style: italic; font-weight: bold; color:yellow; background:#d13c17; width:100px; height:50px;">Jabłko
+        <BUTTON TYPE="button" onClick="parent.location.href='Ded.html'" STYLE="font: 8pt Arial; font-style: italic; font-weight: bold; color:yellow; background:#d13c17; width:100px; height:50px;">Martwy Ciąg
+            <BUTTON TYPE="button" onClick="parent.location.href='Buzi-buzi.html'" STYLE="font: 8pt Arial; font-style: italic; font-weight: bold; color:yellow; background:#d13c17; width:100px; height:50px;">Pocałunek
+        </BUTTON>
+
+
+
+</center> </table>
+<head><center><img src="heheheha-clash-royale.gif"> </center> </head>
+<head><img src="Stalinus.jpg"></head>
+    <Body background="tlo.jpg">
+
+</body>
